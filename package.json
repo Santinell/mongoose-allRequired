@@ -1,10 +1,16 @@
 {
   "author": "Santinell",
-  "name": "allRequired",
-  "version": "0.0.1",
+  "name": "allrequired",
+  "description": "Simple mongoose plugin for fixed schemas",
+  "version": "0.0.2",
   "peerDependencies": {
     "mongoose": ">=3.0"
   },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/Santinell/mongoose-allRequired.git"
+  },
+  "homepage": "https://github.com/Santinell/mongoose-allRequired",
   "engines": {
     "node": ">=0.8.0"
   }
