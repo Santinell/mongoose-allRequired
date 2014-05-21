@@ -1,0 +1,11 @@
+{
+  "author": "Santinell",
+  "name": "allRequired",
+  "version": "0.0.1",
+  "peerDependencies": {
+    "mongoose": ">=3.0"
+  },
+  "engines": {
+    "node": ">=0.8.0"
+  }
+}
