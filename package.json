@@ -1,8 +1,14 @@
 {
   "author": "Santinell",
-  "name": "allrequired",
+  "name": "mongoose-allrequired",
   "description": "Simple mongoose plugin for fixed schemas",
   "version": "0.0.2",
+  "keywords": [
+    "mongoose",
+    "mongo",
+    "all",
+    "required"
+  ],
   "peerDependencies": {
     "mongoose": ">=3.0"
   },
