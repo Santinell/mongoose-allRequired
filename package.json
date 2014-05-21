@@ -2,7 +2,7 @@
   "author": "Santinell",
   "name": "mongoose-allrequired",
   "description": "Simple mongoose plugin for fixed schemas",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "keywords": [
     "mongoose",
     "mongo",

@@ -7,7 +7,7 @@ Simple mongoose plugin for fixed schemas
 USING
 =====
 ```javascript
-var allRequired = require('allRequired');
+var allRequired = require('mongoose-allrequired');
 
 User = new Schema({
   _id: Number,
