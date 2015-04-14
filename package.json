@@ -10,7 +10,7 @@
     "required"
   ],
   "peerDependencies": {
-    "mongoose": "^4.0"
+    "mongoose": "^4.0.0"
   },
   "repository": {
     "type": "git",
