@@ -2,7 +2,7 @@
   "author": "Santinell",
   "name": "mongoose-allrequired",
   "description": "Simple mongoose plugin for fixed schemas",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "keywords": [
     "mongoose",
     "mongo",
@@ -10,7 +10,7 @@
     "required"
   ],
   "peerDependencies": {
-    "mongoose": "^4.0.0"
+    "mongoose": "^3.8"
   },
   "repository": {
     "type": "git",
